@@ -1,0 +1,2 @@
+# leading-filtering-system
+The Lead Profiling Platform is a CRM to enable potential buyers for Real Estate to be filtered and introduced to an appraisal system based on profiling and interest questions.
